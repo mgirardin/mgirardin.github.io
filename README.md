@@ -1,8 +1,5 @@
 # matheusgirardin.com
 
-UNDER CONSTRUCTION
+BLOG UNDER CONSTRUCTION
 
-My personal webpage
-
-Backend developed using GCP cloud function 
-(https://github.com/mgirardin/personal-blog-backend)
+Frontend using only vanilla js, backend developed using GCP python cloud function with NoSQL DB (https://github.com/mgirardin/personal-blog-backend)
